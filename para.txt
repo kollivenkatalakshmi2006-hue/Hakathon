@@ -1,0 +1,1 @@
+airAware (Swift framework) – A developer-friendly framework written in Swift for macOS/iOS that helps integrate data from indoor air quality sensors like Awair, as well as external sources such as AirNow, PurpleAir, OpenWeather, and others. Useful if you're building an air-quality-focused app. 
